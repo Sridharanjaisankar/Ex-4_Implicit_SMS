@@ -26,7 +26,7 @@ Step 6: Send SMS and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
 
-### PROGRAM:
+## PROGRAM:
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
